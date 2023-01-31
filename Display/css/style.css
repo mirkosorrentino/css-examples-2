@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    height: 100px;
+    display: inline-block;
+    background-color: red;
+}
+
+.title {
+    display: inline-block;
+}
+
+header {
+    height: 200px;
+    background-color: aqua;
+    line-height: 100px;
+    vertical-align: middle;
+}
