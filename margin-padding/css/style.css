@@ -1,0 +1,25 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 3px solid black;
+    border-top: 5px solid yellow;
+    padding-left: 30px;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    padding-right: 50px;
+    border-radius: 10px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.box2 {
+    border-radius: 20% 30% 50%;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    padding: 50px;
+    text-align: center;
+}
