@@ -1,0 +1,25 @@
+.title-rem {
+    font-size: 3rem;
+    margin-bottom: 1em;
+}
+
+.title-em {
+    font-size: 2em;
+}
+
+section {
+    font-size: 2rem;
+}
+
+.btn {
+    background-color: aqua;
+    padding: 2em;
+}
+
+.btn-small {
+    font-size: 1rem;
+}
+
+.btn-large {
+    font-size: 2rem;
+}
